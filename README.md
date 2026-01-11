@@ -32,3 +32,14 @@ Estoy comenzando mi camino en la programación web y tengo muchas ganas de apren
 - Crear mi primera aplicación web
 - Conseguir mi primer trabajo como desarrollador
 
+
+  ## 📫 Contacto
+- Celular:910545903
+- Email: carlosenriquesalva19@gmail.com
+
+## 💡 Lo que estoy aprendiendo ahora
+- Git y GitHub
+- Control de versiones
+- Trabajo colaborativo
+
+
